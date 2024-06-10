@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/cp08072004" target="blank"><img src="https://img.shields.io/twitter/follow/cp08072004?logo=twitter&style=for-the-badge" alt="cp08072004" /></a> </p>
 
+- 🔭 I’m currently working on **creating real-life projects**
+
 - 🌱 I’m currently learning **AWS Services and GraphQL.**
+
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
