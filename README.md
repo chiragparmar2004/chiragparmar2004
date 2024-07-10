@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chiragparmar4780@gmail.com**
 
-- ⚡ Fun fact **I Love making project more than leetcode**
+- ⚡ Fun fact **I Love making project on real life problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
